@@ -1,0 +1,24 @@
+{
+    "84": [
+        {
+            "name": "Anushka",
+            "gender": "Female",
+            "qualification": "Mca",
+            "age": 21,
+            "experience": "2",
+            "mobile_no": 9876543210,
+            "email_id": "ashu@gmail.com",
+            "password": "ashu"
+        },
+        {
+            "name": "Ansh",
+            "gender": "Male",
+            "qualification": "BSC",
+            "age": 23,
+            "experience": "2",
+            "mobile_no": 9876543210,
+            "email_id": "ansh@gmail.com",
+            "password": "ansh"
+        }
+    ]
+}

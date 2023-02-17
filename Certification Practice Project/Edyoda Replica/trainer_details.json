@@ -1,0 +1,22 @@
+{
+    "6": {
+        "name": "Pratyush",
+        "gender": "Male",
+        "qualification": "B.Tech",
+        "age": 21,
+        "experience": "2 ",
+        "mobile_no": 9876543210,
+        "email_id": "pratyush@gmail.com",
+        "password": "pratyush"
+    },
+    "23": {
+        "name": "Punit\\",
+        "gender": "23",
+        "qualification": "B.Tech\\",
+        "age": 24,
+        "experience": "2",
+        "mobile_no": 9876,
+        "email_id": "punit@gmail.com",
+        "password": "punit"
+    }
+}
